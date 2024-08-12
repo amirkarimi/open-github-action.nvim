@@ -1,6 +1,6 @@
 # Open GitHub Action
 
-Opens the GitHub Action or reusable Workflow source code from Neovim.
+Opens the GitHub Action or reusable Workflow source code from Neovim. This is especially useful for reusable workflows in your organization to quickly look at workflow parameters and source code.
 
 [Demo](https://github.com/user-attachments/assets/a129f155-d6d3-4a5c-8a45-ae021525df14)
 

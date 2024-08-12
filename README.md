@@ -2,7 +2,7 @@
 
 Opens the GitHub Action or reusable Workflow source code from Neovim.
 
-![Demo](./open-github-action.webm)
+[Demo](https://github.com/user-attachments/assets/a129f155-d6d3-4a5c-8a45-ae021525df14)
 
 ## Installation
 
